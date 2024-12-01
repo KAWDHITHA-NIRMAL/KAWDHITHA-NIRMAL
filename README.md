@@ -1,4 +1,10 @@
-<img align="left" src="gifs/my.jpg" width="130px"/> 
+ <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
+
+```sh
+> profile
+```
+
+<img align="left" src="gifs/ghost2-ezgif.com-gif-maker.gif" width="130px"/> 
 
 ```csharp
 My Profile
@@ -11,3 +17,9 @@ Location: SRI LANKA, AKURESSA 🏠
 Hobbies: Programming, Read Book , Playing Video Game ✌️
 while I am listening music.🎧
 ```
+
+<div>
+<br>
+<br>
+<br>
+<br>
