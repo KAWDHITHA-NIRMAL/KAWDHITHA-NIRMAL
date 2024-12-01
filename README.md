@@ -1,11 +1,13 @@
+<img align="left" src="gifs/my.jpg" width="130px"/> 
+
 ```csharp
 My Profile
 -------------------------------
-Username: mrhansamala.
-MyName: Shashika Chirath Hansamala
-WhoamI: Normal People.
-Pronouns: He-Him.
-Location: SRI LANKA, Kurunegala.
-Hobbies: Programming, Read Book , Playing Video Game 
-while I am listening music.
+Username: Kawdhitha Nirmal🧑‍💻
+MyName: EG KAWDHITHA NIRMAL👻
+WhoamI: REACHING PEOPLE 💸
+Pronouns: He-Him.😇
+Location: SRI LANKA, AKURESSA 🏠
+Hobbies: Programming, Read Book , Playing Video Game ✌️
+while I am listening music.🎧
 ```
