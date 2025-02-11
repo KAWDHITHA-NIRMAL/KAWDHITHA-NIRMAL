@@ -7,8 +7,8 @@ My Profile
 -------------------------------
 Username: Kawdhitha Nirmal 🧑‍💻
 Name: EG Kawdhitha Nirmal 👻
-Who am I: Reaching People 💸
-Pronouns: He/Him 😇
+Who am I: Reach People 💸
+Pronouns: He😇
 Location: Sri Lanka, Akuressa 🏠
 Hobbies: Programming, Reading Books, Playing Video Games ✌️
          while listening to music 🎧
