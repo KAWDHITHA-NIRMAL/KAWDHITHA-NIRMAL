@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Kawdhitha Nirmal](https://dev.sapelaweddo.site)
+# 👋 Hi, I'm [Kawdhitha Nirmal](https://dev.dubhub.lk)
 <div align="left">
   <img src="https://raw.githubusercontent.com/TecnoDeVolper2008/TecnoDeVolper2008/refs/heads/main/Gif/Ghost.gif" width="200" alt="Developer Animation">
 </div>
@@ -6,7 +6,7 @@
 - 💻 Full-Stack Developer & AI Enthusiast
 - 🌱 Always learning and exploring new technologies
 - 📫 Reach me at **codexsldev@gmail.com**
-- 👨‍💻 Check out my portfolio at [dev.sapelaweddo](https://dev.sapelaweddo.site)
+- 👨‍💻 Check out my portfolio at [dev.dubhub.lk](https://dev.dubhub.lk)
 - ⚡ Fun fact: I love turning ideas into code that serves thousands of users!
 
 ## 🛠️ Languages and Tools
