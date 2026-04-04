@@ -82,7 +82,7 @@
   </a>
 
   <a href="https://t.me/codex_developer" target="_blank" style="margin-left:-6px;">
-    <img src="https://social-card-codex.vercel.app/api/telegram?username=codex_developer&theme=dark&overrideVerified=true&overrideVerifiedIcon=https%3A%2F%2Fstatic.whatsapp.net%2Frsrc.php%2Fv4%2FyM%2Fr%2FSGDtYg_EYce.png&extraColor=%231A8AD5&fontFamily=system-ui"
+    <img src="https://social-card-codex.vercel.app/api/telegram?username=codex_developer&theme=dark&overrideVerified=true&overrideVerifiedIcon=https%3A%2F%2Fstatic.whatsapp.net%2Frsrc.php%2Fv4%2FyM%2Fr%2FSGDtYg_EYce.png&fontFamily=system-ui"
     style="width:300px; display:block;" />
   </a>
 
