@@ -74,7 +74,21 @@
 </div>
 
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <a href="https://whatsapp.com/channel/0029VatTpZU7oQhkw1WbZS0B" target="_blank"><img src="https://social-card-codex.vercel.app/api?channellink=https%3A%2F%2Fwhatsapp.com%2Fchannel%2F0029VatTpZU7oQhkw1WbZS0B&theme=dark&overrideVerified=true&overrideVerifiedIcon=https%3A%2F%2Fstatic.whatsapp.net%2Frsrc.php%2Fv4%2FyM%2Fr%2FSGDtYg_EYce.png&fontFamily=system-ui" alt="CodeX Developers" style="width: 300px; max-width: 100%; height: auto;" /></a>
-  <a href="https://t.me/codex_developer" target="_blank"><img src="https://telegram-card.vercel.app/?username=codex_developer&theme=dark" alt="CodeX Developers tg" style="width: 300px; max-width: 100%; height: auto;" /></a>
+<div style="display: flex; justify-content: center; line-height: 0;">
+
+  <a href="https://whatsapp.com/channel/0029VatTpZU7oQhkw1WbZS0B" target="_blank">
+    <img src="https://social-card-codex.vercel.app/api?channellink=https%3A%2F%2Fwhatsapp.com%2Fchannel%2F0029VatTpZU7oQhkw1WbZS0B&theme=dark&overrideVerified=true&overrideVerifiedIcon=https%3A%2F%2Fstatic.whatsapp.net%2Frsrc.php%2Fv4%2FyM%2Fr%2FSGDtYg_EYce.png&fontFamily=system-ui"
+    style="width:300px; display:block;" />
+  </a>
+
+  <a href="https://t.me/codex_developer" target="_blank" style="margin-left:-6px;">
+    <img src="https://social-card-codex.vercel.app/api/telegram?username=codex_developer&theme=dark&overrideVerified=true&overrideVerifiedIcon=https%3A%2F%2Fstatic.whatsapp.net%2Frsrc.php%2Fv4%2FyM%2Fr%2FSGDtYg_EYce.png&extraColor=%231A8AD5&fontFamily=system-ui"
+    style="width:300px; display:block;" />
+  </a>
+
+  <a href="https://whatsapp.com/channel/0029Va5ErMS2phHGA9yWn12X" target="_blank" style="margin-left:-6px;">
+    <img src="https://social-card-codex.vercel.app/api?channellink=https%3A%2F%2Fwhatsapp.com%2Fchannel%2F0029Va5ErMS2phHGA9yWn12X&theme=dark&overrideVerified=true&overrideVerifiedIcon=https%3A%2F%2Fstatic.whatsapp.net%2Frsrc.php%2Fv4%2FyM%2Fr%2FSGDtYg_EYce.png&fontFamily=system-ui"
+    style="width:300px; display:block;" />
+  </a>
+
 </div>
